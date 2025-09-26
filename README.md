@@ -11,3 +11,7 @@ Entwicklungsplatform: Win11
 Lessons learned:
 - Anlegen GitRepo mit gitignore und readme
 - Basic Workflow git <-> Github
+
+
+
+  
