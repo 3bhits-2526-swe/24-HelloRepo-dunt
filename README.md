@@ -4,7 +4,7 @@ https://github.com/im-luka/markdown-cheatsheet
 
 Kurze Beschreibung des Projects: Einführung in Github mit git
 
-jetzt online änderung auch lokal miau miau miau
+jetzt online änderung auch lokal ganz egal
 
 Entwicklungsplatform: Win11
 
@@ -13,6 +13,5 @@ Lessons learned:
 - Basic Workflow git <-> Github
 
 
-     Aenderungen durchgefuehrt
 
   
